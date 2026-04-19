@@ -75,8 +75,10 @@ h3 {
 }
 
 .hero-image {
-  width: 400px; 
+  width: 500px; 
   height:auto;
+  display: block;
+  margin: 0 auto;
 }
 .activity-image {
   width: 100%;
@@ -88,7 +90,7 @@ h3 {
 }
 
 .badge-image {
-  width: 100%;
+  width:150px;
   max-width: 180px;
   border: 2px solid #c8b193;
   border-radius: 6px;
