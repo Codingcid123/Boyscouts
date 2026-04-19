@@ -74,7 +74,10 @@ h3 {
   color: #5b3a22;
 }
 
-.hero-image,
+.hero-image {
+  width: 400px; 
+  height:auto;
+}
 .activity-image {
   width: 100%;
   max-width: 760px;
