@@ -90,14 +90,11 @@ h3 {
 }
 
 .badge-image {
-  width: 150px;
-  height: 190;
-  object-fit: contain;
-  border: 2px solid #c8b193;
-  border-radius: 6px;
+  width: 150px !important;
+  height: 150px !important;
   display: block;
   margin: 8px auto 10px;
-  background-color: #fff;
+  object-fit: contain;
 }
 
 .card-grid,
