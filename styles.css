@@ -91,7 +91,7 @@ h3 {
 
 .badge-image {
   width: 150px;
-  height: auto;
+  height: 190;
   object-fit: contain;
   border: 2px solid #c8b193;
   border-radius: 6px;
